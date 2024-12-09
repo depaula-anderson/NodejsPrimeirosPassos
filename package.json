@@ -3,6 +3,7 @@
   "author": "anderson",
   "version": "1.0.0",
   "main": "index.js",
+  "keywords": [ "descriptive", "related", "words" ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
